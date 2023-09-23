@@ -1,0 +1,124 @@
+body {
+    background-color: black;
+}
+nav{
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 15px;
+    font-family: Manrope, Arial, sans-serif;
+    padding: 60px 100px 60px 60px;
+  
+}
+a {
+    padding-left: 40px;
+}
+
+.heroImage {
+    width: 700px;
+    height: 800px;    
+
+}
+.containerImage{
+    padding: 5px;
+    padding-left: 200px;
+   display: flex;
+   align-items: left;
+}
+.containerHead{
+
+    display: flex;
+   align-items: right;
+}
+.headLine {
+    color: rgb(200, 205, 201);
+    font-size: 60px;
+    font-family: Manrope, Arial, sans-serif;
+    text-align: center;
+    padding-left: 40px;
+    padding-top: 200px;
+}
+.headLine2 {
+    color: rgb(200, 205, 201);
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Manrope, Arial, sans-serif;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 5px;
+    padding-right: 80px;
+}
+
+.buttonContainer{
+    display:flex;
+    justify-content: center;
+}
+.ViewProjectButton {
+    padding: 18px;
+    font-size: 20px;
+    font-family: Manrope, Arial, sans-serif;
+}
+
+
+.mainContainer{
+    display: flex;
+    background-color: black;
+}
+
+.workSection {
+    background-color: black;
+    color: rgb(200, 205, 201);
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Manrope, Arial, sans-serif;
+    padding: 100px;
+
+}
+
+.travelappPhoto {
+    padding-top: 100px;;
+   
+    
+}
+
+.travelappimg {
+    padding-left: 800px;
+    width: 500px;
+    height: 300px;
+}
+.appNameandButton {
+    align-items: right;
+}
+
+.workSection {
+    align-items: center;
+}
+
+.viewWorkbutton {
+    padding: 18px;
+    font-size: 20px;
+    font-family: Manrope, Arial, sans-serif;
+
+}
+
+.footerContainer {
+    background-color: rgb(78, 78, 78);
+    padding-top: 15px;
+}
+
+.email {
+    font-size: 50px;
+    color: antiquewhite;
+    padding: 25px;
+}
+
+.footerMessage {
+    color: rgb(200, 205, 201);
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Manrope, Arial, sans-serif;
+    text-align: left;
+    padding-left: 25px;
+    padding-bottom: 50px;
+
+}
